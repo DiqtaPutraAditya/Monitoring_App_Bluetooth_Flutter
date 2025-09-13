@@ -1,20 +1,30 @@
-<<<<<<< HEAD
-# percobaan_testing
+# Monitoring App Bluetooth Flutter 📱
 
-A new Flutter project.
+Aplikasi Flutter untuk memantau kondisi lingkungan (suhu, kelembaban, intensitas cahaya, dan kondisi hujan) secara real-time menggunakan komunikasi Bluetooth dengan mikrokontroler.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur
+- 🌡️ Monitoring suhu
+- 💧 Monitoring kelembaban
+- 🌞 Deteksi terang/gelap
+- 🌧️ Deteksi hujan
+- 🔗 Komunikasi Bluetooth dengan mikrokontroler
+- 📊 Tampilan sederhana dan responsif
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Teknologi
+- Flutter & Dart
+- Android (APK)
+- Paket Flutter untuk Bluetooth (contoh: flutter_blue)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Monitoring_App_Bluetooth_Flutter
->>>>>>> be8d1c8ad1e02e92cebfa0de5cf2b05602e948e3
+---
+
+## 🚀 Cara Menjalankan
+  1. Clone repo ini:
+     ```bash
+      git clone https://github.com/DiqtaPutraAditya/Monitoring_App_Bluetooth_Flutter.git
+  2. Masuk ke folder project:
+  ```bash 
+      cd Monitoring_App_Bluetooth_Flutter
