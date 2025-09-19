@@ -26,5 +26,49 @@ Aplikasi Flutter untuk memantau kondisi lingkungan (suhu, kelembaban, intensitas
      ```bash
       git clone https://github.com/DiqtaPutraAditya/Monitoring_App_Bluetooth_Flutter.git
   2. Masuk ke folder project:
-  ```bash 
+     ```bash 
       cd Monitoring_App_Bluetooth_Flutter
+  3. Install dependencies:
+     ```bash
+     flutter pub get
+     ```
+
+  4. Jalankan aplikasi di device/emulator:
+     ```bash
+     flutter run
+     ```
+
+  5. Untuk build APK:
+     ```bash
+     flutter build apk --release
+     ```
+
+---
+
+## 📂 Struktur Proyek
+    Monitoring_App_Bluetooth_Flutter/
+    │-- lib/
+    │-- android/
+    │-- ios/
+    │-- web/
+    │-- test/
+    │-- .gitignore
+    │-- README.md
+    │-- pubspec.yaml
+    
+---
+
+## 📸 Preview
+
+![App Screenshot](https://github.com/DiqtaPutraAditya/Monitoring_App_Bluetooth_Flutter/blob/main/Screenshot%202025-09-19%20134110.png)
+
+---
+
+## 🤝 Kontribusi
+Pull request dan masukan sangat diterima! Silakan buat issue jika ada bug atau ide fitur baru.
+
+---
+
+## 📜 Lisensi
+Proyek ini dilisensikan di bawah **MIT License**.
+
