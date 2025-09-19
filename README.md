@@ -69,6 +69,3 @@ Pull request dan masukan sangat diterima! Silakan buat issue jika ada bug atau i
 
 ---
 
-## 📜 Lisensi
-Proyek ini dilisensikan di bawah **MIT License**.
-
